@@ -12,6 +12,7 @@ union
 ##演示地址
 
 http://devise-github.herokuapp.commit
+只是演示
 
 
 父系统项目介绍如下：
